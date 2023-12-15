@@ -1,6 +1,5 @@
 # CLI AI Chatbot
 
-##
 1. Create virtual environment and install dependencies
 ```py
   python3 -m venv venv
